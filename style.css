@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(129, 220, 221);
+}
+div {
+}
+input {
+    font-size: 25px;
+}
+.main {
+}
+h1 {
+    color: #fff;
+}
+.div1 {
+    text-align: center;
+    height: 100px;
+    background-color: rgb(255, 235, 140);
+    margin: 120px 550px 0 550px;
+    padding: 25px;
+}
+.div2 {
+    color: #888181;
+    background-color: #fff;
+    margin: 0 550px;
+    padding: 25px 50px;
+}
+button {
+    background-color: rgb(65, 187, 188);
+    margin: 0 120px;
+    font-size: large;
+}
+.last {
+    margin: 20px 70px;
+}
